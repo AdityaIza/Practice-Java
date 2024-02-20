@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aditya.iml" filepath="$PROJECT_DIR$/.idea/Aditya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BangunDatar/BangunDatar.iml" filepath="$PROJECT_DIR$/BangunDatar/BangunDatar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datetime/Datetime.iml" filepath="$PROJECT_DIR$/Datetime/Datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HellloJava/HellloJava.iml" filepath="$PROJECT_DIR$/HellloJava/HellloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOuput/InputOuput.iml" filepath="$PROJECT_DIR$/InputOuput/InputOuput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objek/Objek.iml" filepath="$PROJECT_DIR$/Objek/Objek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percabangan/Percabangan.iml" filepath="$PROJECT_DIR$/Percabangan/Percabangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Perulangan/Perulangan.iml" filepath="$PROJECT_DIR$/Perulangan/Perulangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertiDanMetode/PropertiDanMetode.iml" filepath="$PROJECT_DIR$/PropertiDanMetode/PropertiDanMetode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" filepath="$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuhuAir/SuhuAir.iml" filepath="$PROJECT_DIR$/SuhuAir/SuhuAir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VokalKonsonan/VokalKonsonan.iml" filepath="$PROJECT_DIR$/VokalKonsonan/VokalKonsonan.iml" />
+    </modules>
+  </component>
+</project>
